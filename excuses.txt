@@ -96,3 +96,170 @@ I'm breaking up with my boyfriend.
 I'm breaking out.
 I have to pick up my dry cleaning.
 I have to pick out a car.
+Clock speeds were lowered due to daylight saving time.
+Solar flares affected the electronics.
+Electromagnetic radiation from satellite debris.
+Static from nylon underwear caused a power surge.
+Global warming.
+Poor power conditioning.
+Static build-up in the accelerators.
+Doppler effect.
+Hardware stress fractures.
+Magnetic interference from chips in new credit cards.
+Dry joints on cable plugs.
+The phone lines were dug up and the phone company hasn't fixed them yet.
+Microsoft support is on the case.
+Temporary routing anomaly.
+Somebody was calculating pi on the server.
+Fat electrons are clogging up the tubes.
+Excess surge protection is a bad thing.
+The floating point processor overflowed.
+Divide-by-zero error.
+POSIX compliance problem.
+Monitor resolution is too high.
+Improperly oriented keyboard.
+Network packets travelling uphill caused a slowdown.
+Decreasing electron flux.
+The CPU radiator broke.
+It was broken, now it works the way it was always supposed to.
+The positron router malfunctioned.
+Cellular telephone interference.
+Tectonic stress caused a rupture in bus lines.
+PCI bus drivers are on strike.
+Piezo-electric drivers caused interference.
+Error between keyboard and screen.
+The dynamic software linking table was corrupted.
+Heavy gravity fluctuations, move your computer to the floor.
+The secretary plugged a hair dryer into the UPS.
+Terrorist activities.
+Not enough memory, close some programs.
+Interrupt configuration was interrupted.
+Spaghetti cable caused a packet failure.
+Boss forgot the system password.
+It's a bank holiday, all systems are off.
+Virus attack.
+Waste water tank overflowed onto servers.
+Complete transient lockout event.
+Bad ether in the cables.
+Bogon emissions.
+Change in the Earth's rotational speed.
+Cosmic ray particles crashed through the hard disk platter.
+Smell from unhygienic janitorial staff wrecked the tape heads.
+The hamster died, waiting for replacement to be Fedex'ed over.
+Evil dogs hypnotised the night shift.
+A plumber mistook routing panel for decorative wall fixture.
+Electricians made popcorn in the power supply.
+Groundskeepers stole the root password.
+High pressure systems failed.
+Failed trials, system needs to be redesigned.
+The server had to be recalled.
+The operation was not approved by the FCC.
+Need to wrap system in aluminium foil to fix the problem.
+The computer is not properly grounded, try burying it.
+CPU needs recalibration, bang on the case a few times.
+System needs to be rebooted twice.
+The bit bucket overflowed.
+Code was descrambled and needs to be recompiled.
+It's on a need to know basis.
+Knots in cables caused data streams to become twisted.
+Nesting roaches shorted out the network.
+The file system is full of it.
+You're out of memory.
+There isn't any problem.
+Unoptimized hard drive caused lost files.
+Typo in the code requires recompiling.
+A design limitation prevented the operation from completing.
+A General Protection Fault caused the failure.
+The AC line was plugged in the DC socket.
+A mouse deleted the files.
+Support staff are too hung over, send an aspirin.
+Someone is standing on the Ethernet cable causing a kink in the cable.
+It's an undocumented feature.
+Runt packets caused a drop in connection.
+The password is too complex to decrypt.
+Electromagnetic energy loss caused a server reboot.
+Budget cuts made this operation impossible anymore.
+A mouse chewed through power cables.
+Stale file handles.
+The feature not yet implemented.
+Internet outage, call the provider.
+Vendor no longer supports the product.
+Small animal kamikaze attack on power supplies.
+The vendor put the bug there.
+SIMM crosstalk.
+The IRQ dropped out.
+Collapsed Backbone caused a network outage.
+Power company causing voltage spikes.
+Operators are on strike due to broken coffee machines.
+Backup tapes were overwritten with Minecraft.
+The UPS interrupted the server's power.
+The keyboard isn't plugged into the right port.
+The air conditioning water supply pipe ruptured on the server.
+The rolling stones concert down the road caused a brown out.
+The salesman drove over the CPU board.
+The monitor is plugged into the serial port.
+Root name servers are out of sync.
+Electro-magnetic pulses from nuke tests in the 60s.
+Your keyboard's space bar is generating spurious keycodes.
+The printer thinks it's a router.
+The router thinks it's a printer.
+Hackers stole the code.
+We just switched to FDDI.
+The halon system went off and killed the server operators.
+Sticky bits are on the disk.
+The connection was refused.
+You put the disk in upside down.
+Daemons loose in the system.
+NSA spying caused an endless loop.
+Disks are spinning backwards.
+Communications satellite is being used by the military for star wars.
+Someone needed the power strip.
+Big to little endian conversion error.
+Dumb terminal problem.
+Zombie processes are haunting the computer.
+Defunct processes.
+A lack of "any" key on the keyboard.
+Excessive collisions on the network and not enough packet ambulances.
+Broadcast packets are on the wrong frequency.
+The GET command did a POST.
+SOAP fell on the floor.
+The adapter failed to adapt.
+Pseudo-user was not on a pseudo-terminal.
+Recursive traversal of loopback mount points.
+Vapors from evaporating sticky-note adhesives.
+The virtual machine ran out of virtual.
+The VM was not physical enough.
+The VHD was removed from the server.
+A bug in the management software shut off all the VMs.
+The file system is not big enough for Jumbo packets.
+The processor is on fire.
+A runaway cat on the system.
+Me no internet, only janitor, me just wax floors.
+Virtual memory capacity was exceeded.
+Quantum dynamics are affecting the transistors.
+Only people with names beginning with 'A' are getting mail this week.
+We didn't pay the Internet bill and it's been cut off.
+Lightning struck the server.
+The software upgrade caused the issue.
+It only works in Finnish.
+High nuclear activity in your area.
+The UPS doesn't have a battery backup.
+Recursivity error. Call back if it happens again.
+Someone thought The Big Red Button was a light switch.
+The mainframe needs to rest, it's getting old.
+The lines are all busy.
+VOIP ran out of IP.
+Fatal error right in front of the screen.
+We had to turn off that service to comply with the CDA Bill.
+Ionization from the air-conditioning.
+The CPU needs bearings repacked.
+Software uses US measurements, but the OS is in metric.
+Your cat tried to eat the mouse.
+The Borg tried to assimilate your system.
+Due to Federal Budget deficit caused a loss of money to maintain the servers.
+Too much radiation coming from the soil.
+Unfortunately we have run out of bits. Our next supply comes next month.
+Program load is too heavy for the processor to lift.
+We've run out of licenses.
+Interference from lunar radiation.
+You need to install a RTFM interface.
